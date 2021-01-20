@@ -31,10 +31,10 @@
        <id>nexus</id>
        <url>http://52.170.237.53:8081/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
-     <repositories>
+     <repository>
        <id>nexus</id>
        <url>http://52.170.237.53:8081/nexus/content/repositories/releases</url>
-    </repositories>
+    </repository>
   </distributionManagement>
 
 </project>
